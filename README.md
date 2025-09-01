@@ -1,1 +1,3 @@
 # Automation-in-Python
+
+In the following project, I do a full walkthrough of freeCodeCamp's [*Automate with Python - Full Course for Beginners*](https://www.youtube.com/watch?v=PXMJ6FS7llk) tutorial where they go over the essentials topics of web scraping across various formats (HTML, CSV, PDF) using different Python libraries to help with automation (Path, Selenium, Xpath, etc.). It is important to note that this video is 3 years old and slight adjustments may have been made to the data sources, libaries, and methodologies. Ultimately, I'm simply doing this for personal practice and education, where I hope to apply any useful teachings into my own workflow-whether that be through automating news extraction, sending texts, excel reports, or more.
